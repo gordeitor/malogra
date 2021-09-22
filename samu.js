@@ -819,6 +819,58 @@ contextInfo: {
 mentionedJid: [sender]}
 const faud = {
 key:
+contextInfo: {
+mentionedJid: [sender]}
+const fdoc = {
+key:
+{ fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ?
+{ remoteJid: "status@broadcast" } : {}) },
+message: { "documentMessage": { "title":"🔥🔥𝐋𝐔𝐗ඞ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐎🔥 | MΣᄂ💀DΥ ✓", 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
+}
+contextInfo: {
+mentionedJid: [sender]}
+const floc = {
+key:
+{ fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ?
+{ remoteJid: "status@broadcast" } : {}) },
+message: { "locationMessage": { "caption":"🔥𝐋𝐔𝐗ඞ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐎🔥", 'jpegThumbnail': fs.readFileSync('./src/samyperry.png')}}
+}
+contextInfo: {
+mentionedJid: [sender]}
+const fliveLoc = {
+key:
+{ fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ?
+{ remoteJid: "status@broadcast" } : {}) },
+message: { "liveLocationMessage": { "caption":"MΣᄂ💀DΥ ✓ | 🔥𝐋𝐔𝐗ඞ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐎🔥", 'jpegThumbnail': fs.readFileSync('./src/img.jpg')}}
+}
+contextInfo: {
+mentionedJid: [sender]}
+const fvid = {
+key:
+{ fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ?
+{ remoteJid: "status@broadcast" } : {}) },
+message: { "videoMessage": { "caption":"🌺🔥𝐋𝐔𝐗ඞ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐎🔥🌺", 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
+}
+contextInfo: {
+mentionedJid: [sender]}
+const faud = {
+key:
+{ fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ?
+{ remoteJid: "status@broadcast" } : {}) },
+message: { "audioMessage": {"mimetype": "audio/mp4", "ptt": true, "seconds": -666666}}
+}
+contextInfo: {
+mentionedJid: [sender]}
+const ftoko = {
+key: {
+fromMe: false,
+participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
+},
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
@@ -838,12 +890,12 @@ message: {
 "mimetype": "image/jpeg",
 "jpegThumbnail": fs.readFileSync(`./src/fake.jpg`)
 },
-"title": `🐉𝗦𝗮𝗺𝘂𝟯𝟯𝟬🔥 | 📌𝑵𝒚𝒂𝒏𝑩𝒐𝒕🌹 ${timeFt}`,
+"title": `MΣᄂ💀DΥ ✓ | 𝐋𝐔𝐗ඞ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒� ${timeFt}`,
 "description": "",
 "currencyCode": "SYP",
-"priceAmount1000": "999999999999999999",
+"priceAmount1000": "6666666666666666",
 "retailerId": "",
-"productImageCount": 999
+"productImageCount": 666
 },
 "businessOwnerJid": `0@s.whatsapp.net`
 }
