@@ -682,7 +682,7 @@ const reply = async(teks) => {
         },
         message: {
         "imageMessage": { "title": `${body}`, 'jpegThumbnail': fs.readFileSync('./media/reply.png')}}
-        }, contextInfo: {"externalAdReply": {"title": "🍉S̲̲̲̲̲̲̲̲̲̲̲̲̲̅̅̅̅̅̅̅̅̅̅̅̅̅a̲͇̲̲͇͇̲͇̲͇̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅m͇̭͇͇̭͇̭͇̭͇̭̅̿͆̈̅̿͆̈̅̅̿͆̈̿̅̿͆̈͆̅̿͆̈u̲͇̪̲̲͇̪͇̲͇̪̪̲͇̪̲͇̪͋ S͇̲͇͇͇̪͇̟͇͇͇͇̲͇̲͇͇͇̪͇̟͇͇͇͇͇͇̲͇͇͇̪͇̟͇͇͇͇̪͇̲͇͇͇̪͇̟͇͇͇͇̟͇̲͇͇͇̪͇̟͇͇͇͇͇̲͇͇͇̪͇̟͇͇͇͇͇̲͇͇͇̪͇̟͇͇͇͇͇̲͇͇͇̪͇̟͇͇͇͇̿̽̈̿̽̈̿̽̈̿̽̈̿̽̈̿̿̽̈̽̿̽̈̈̿̽̈r Ḓ̬̩j̭̬̩s̭̬̩r̭̬̩🏹", "body": "🔥Sꪁ꯭⃜ꪔ꯭ᷤꪊ3⃝30 | Sam y Perry🍒", "sourceUrl": `https://m.facebook.com/story.php?story_fbid=375459010688813&id=100046741523390`, "thumbnail": fs.readFileSync('./media/SmWW.png')}}})
+        }, contextInfo: {"externalAdReply": {"title": "🔥⃤𝐋𝐔𝐗ඞ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐎🔥", "body": "MΣᄂ💀DΥ ✓⁩ | MΣᄂ💀DΥ ✓⁩", "sourceUrl": `https://www.facebook.com/groups/805263093190600`, "thumbnail": fs.readFileSync('./media/SmWW.png')}}})
 }
 	
 	/*const fileIO = async buffer => {
